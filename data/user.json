@@ -1,0 +1,58 @@
+[
+    {
+        "name": "maria",
+        "email": "maria@mail.com",
+        "color": "amarillo",
+        "edad": 15,
+        "id": 1
+    },
+    {
+        "name": "rosa",
+        "email": "rosa@mail.com",
+        "color": "violeta",
+        "edad": 15,
+        "id": 2
+    },
+    {
+        "id": 3,
+        "name": "hola",
+        "email": "mail@mail.com",
+        "color": "2",
+        "edad": "4"
+    },
+    {
+        "id": 4,
+        "name": "hola",
+        "email": "mail@mail.com",
+        "color": "2",
+        "edad": "4"
+    },
+    {
+        "id": 5,
+        "name": "Ladron",
+        "email": "mail@mail.com",
+        "color": "2",
+        "edad": "5"
+    },
+    {
+        "id": 6,
+        "name": "Ladron",
+        "email": "mail@mail.com",
+        "color": "2",
+        "edad": "5"
+    },
+    {
+        "id": 7,
+        "name": "Ladron",
+        "email": "mail@mail.com",
+        "color": "2",
+        "edad": "6"
+    },
+    {
+        "id": 8,
+        "name": "Ladron",
+        "email": "mail@email.com",
+        "color": "3",
+        "edad": "7"
+    }
+]
